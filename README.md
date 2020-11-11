@@ -1,5 +1,12 @@
-# Pix2PixGAN
-Paper: https://arxiv.org/pdf/1611.07004.pdf
+# Pix2Pix GAN Aerail to Map Generation
+
+<ul>
+	<li>Implemented Pix2Pix using Pytorch</li>
+	<li>Load Dataset using DataLoader API in Pytorch</li>
+	<li>Use Transfor API for transformation</li>
+	<li>Pytorch version 1.6 + CUDA enabled</li>
+</ul>
+<b>Paper:</b> <span>https://arxiv.org/pdf/1611.07004.pdf</span>
 
 <img src="./Images_Readme/Dataset_image.jpg">
 
