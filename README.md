@@ -1,4 +1,4 @@
-# Pix2Pix GAN Aerail to Map Generation
+# Pix2Pix GAN Aerial to Map Generation
 
 <ul>
 	<li>Implemented Pix2Pix using Pytorch</li>
